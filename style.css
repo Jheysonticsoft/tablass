@@ -1,0 +1,18 @@
+body{
+    background-color: lightpink;
+}
+h1{
+    background-color: purple;
+    color: white;
+}
+th{
+    background-color: lightseagreen;
+    color: white;
+}
+td{
+    background-color: lightgray;
+    color: white;
+}
+i{
+    color: red;
+}
